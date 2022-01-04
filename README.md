@@ -1,5 +1,6 @@
 # Hello-World
-My first repository on Github
+My first repository on github
+
 #include <stdio.h>
 
 int main() {
@@ -7,4 +8,3 @@ int main() {
     printf("Hello World!\n");
     return 0;
 }
-
